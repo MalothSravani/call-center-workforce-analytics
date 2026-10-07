@@ -1,0 +1,8 @@
+# This repository currently contains BigQuery SQL analysis and Tableau Public
+# visualization artifacts/screenshots. No local Python environment is required
+# to view the included project files.
+
+# Primary tools:
+# - Google BigQuery
+# - SQL
+# - Tableau Public
